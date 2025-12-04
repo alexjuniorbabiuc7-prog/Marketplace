@@ -1,0 +1,107 @@
+{
+	"users":[
+		{
+			"id":1,
+			"name":"Ion",
+			"surname":"Burlacu",
+			"photo_url":"https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkzNy1hZXctMTY1LWtsaGN3ZWNtLmpwZw.jpg",
+			"balance":2500
+		},
+		{
+			"id":2,
+			"name":"Doina",
+			"surname":"Talpa",
+			"photo_url":"https://cdn-icons-png.flaticon.com/512/5231/5231019.png",
+			"balance":3500
+		},
+		{
+			"id":3,
+			"name":"Alex",
+			"surname":"Grosu",
+			"photo_url":"https://www.svgrepo.com/show/506667/person.svg",
+			"balance":2500
+		}
+	],
+	"products":[
+		{
+			"id":1,
+			"name":"Chisinau de seara",
+			"description":"Ciocolata cu prune",
+			"price":250,
+			"autor_id":1,
+			"photo_url":"https://gomagcdn.ro/domains/bucuria.ro/files/product/medium/bomboane-bucuria-chisinaul-de-seara-1-250-gr-167422.jpg"
+		},
+		{
+			"id":2,
+			"name":"Moldova",
+			"description":"Ciocolata cu alune",
+			"price":300,
+			"autor_id":1,
+			"photo_url":"https://img1.zakaz.md/upload.version_1.0.90840c4f0e96a1aeeba12808be658165.1350x1350.jpeg"
+		},
+		{
+			"id":3,
+			"name":"Do-re-Mi",
+			"description":"Ciocolata cu alune",
+			"price":280,
+			"autor_id":2,
+			"photo_url":"https://img1.zakaz.md/upload.version_1.0.5e2af2bdbe95b55eb726caef42778b9d.350x350.jpeg"
+		},
+		{
+			"id":4,
+			"name":"Visina in ciocolata",
+			"description":"Ciocolata cu visina",
+			"price":230,
+			"autor_id":2,
+			"photo_url":"https://gomagcdn.ro/domains/bucuria.ro/files/product/original/bomboane-bucuria-visina-in-ciocolata-1-250-gr-053935.jpg"
+		},
+		{
+			"id":5,
+			"name":"Struguri in ciocolata",
+			"description":"Ciocolata cu struguri",
+			"price":180,
+			"autor_id":3,
+			"photo_url":"https://magazinbucuria.ro/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/bomboane-bucuria-struguri-in-ciocolata-mb00013-1.png"
+		},
+		{
+			"id":6,
+			"name":"Meteorit",
+			"description":"Ciocolata cu alune",
+			"price":200,
+			"autor_id":3,
+			"photo_url":"https://linella.md/public/products/51c96a0c07d8f6f56555c13e7a9dca09.webp"
+		},
+		{
+			"id":7,
+			"name":"Griliaj",
+			"description":"Ciocolata cu alune",
+			"price":280,
+			"autor_id":1,
+			"photo_url":"https://img1.zakaz.md/upload.version_1.0.a260337e29bb047ff1340ca9685d12f4.350x350.jpeg"
+		},
+		{
+			"id":8,
+			"name":"Bucuria",
+			"description":"Ciocolata cu alune",
+			"price":210,
+			"autor_id":1,
+			"photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNKQ3e-zdIfnBmcX1NgfLHiRmYT7yp_SWIzw&s"
+		},
+		{
+			"id":9,
+			"name":"Bucurel",
+			"description":"Ciocolata cu alune",
+			"price":160,
+			"autor_id":2,
+			"photo_url":"https://gomagcdn.ro/domains/bucuria.ro/files/product/original/bomboane-bucuria-bucurel-cu-pufarine-de-orez-1-250-gr-216394.jpg"
+		},
+		{
+			"id":10,
+			"name":"Inspiratie",
+			"description":"Ciocolata cu jale",
+			"price":150,
+			"autor_id":3,
+			"photo_url":"https://gomagcdn.ro/domains/bucuria.ro/files/product/medium/bomboane-bucuria-inspiratie-portocale-1-250-gr-371913.jpg"
+		}
+	]
+}
